@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BucketListExp</string>
+    <string name="pick">Pick one !</string>
+    <string name="wish_item">Make a wish…</string>
+    <string name="add">add</string>
+    <string name="todo">To do …</string>
+    <string name="noMorePlan">No more plan</string>
+    <string name="pic">picture</string>
+</resources>
